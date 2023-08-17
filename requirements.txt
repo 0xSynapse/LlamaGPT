@@ -1,0 +1,10 @@
+ctransformers  # ==0.2.10 0.2.13
+transformers  # ==4.30.2
+huggingface_hub
+gradio
+loguru
+about-time
+psutil
+dl-hf-model
+fpdf
+pathlib
